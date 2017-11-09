@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'lnmunhoz:autoform-markdown-editor',
-  version: '1.0.4',
-  summary: 'A github like markdown editor using autoform and perak:markdown',
+  name: 'dstagner:autoform-markdown-editor',
+  version: '1.0.5',
+  summary: 'A github like markdown editor using autoform and perak:markdown, forked from lnmunhoz:autoform-markdown-editor',
   git: 'https://github.com/lnmunhoz/meteor-autoform-markdown-editor',
   documentation: 'README.md'
 });
